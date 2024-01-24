@@ -8,7 +8,11 @@ public class App {
     public static void main(String[] args) throws Exception {
         int option;
         do {
+<<<<<<< HEAD
             System.out.println("Calculadora de Área de Pau");
+=======
+            System.out.println("Calculadora de Área por Pau");
+>>>>>>> Develop
             System.out.println("Selecciona una opción:");
             System.out.println("1. Círculo");
             System.out.println("2. Cuadrado");
